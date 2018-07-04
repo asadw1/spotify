@@ -1,0 +1,6 @@
+Notes on ML/Dataset
+
+-cols = features
+-rows = observations
+
+
